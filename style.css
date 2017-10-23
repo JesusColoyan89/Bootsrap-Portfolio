@@ -1,0 +1,12 @@
+h2, h1, h3 {
+	font-family: 'Permanent Marker', Cursive;
+}
+
+.jumbotron {
+	background-image: url("https://i.imgur.com/R7a69Yn.jpg");
+
+}
+
+.navbar {
+	background-color: pink;
+}
